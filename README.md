@@ -1,6 +1,14 @@
 # ebook
 一路走来收藏的电子书
 
+### 2020.01.14 - 2
+
+- JavaScript DOM编程艺术 第2版.pdf
+- JavaScript权威指南(第6版)-英文版.pdf
+- JavaScript语言精粹.pdf
+- JavaScript高级程序设计（第3版）】中文.pdf
+- 大话设计模式-程杰.pdf
+
 ### 2020.01.14
 - JavaScript设计模式 张容铭.pdf
 - JavaScript设计模式与开发实践.pdf
